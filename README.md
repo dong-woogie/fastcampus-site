@@ -27,3 +27,8 @@ $ npm run dev
 $ npm run build
 $ npm run deploy
 ```
+
+## 테스트
+
+- Jest
+- npm run test
