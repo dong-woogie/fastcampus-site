@@ -21,14 +21,16 @@
 
 ```
 $ npm run dev
-```
-
-```
 $ npm run build
 $ npm run deploy
+$ npm run test
+
+// run docker build
+$ npm run docker
+// run docker image
+$ npm run start:production
 ```
 
 ## 테스트
 
 - Jest
-- npm run test
